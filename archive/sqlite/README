@@ -1,0 +1,3 @@
+when the conn_config.pb was used in root along with compose.yml
+resulted in the .sqlite db file
+as expected
